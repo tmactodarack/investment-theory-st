@@ -1,4 +1,12 @@
-/* GLOBAL FONT CHANGE */
-html, body, [class*="css"] {
-    font-family: 'Space Grotesk'; 
-}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap');
+/* html, *body, [class*="css"] {
+    font-family: 'Roboto' !important;   
+    font-size: 18px;
+    font-weight: 500;
+    color: #091747;
+} */
+
+/* [class^=st-emotion] {
+    font-family: 'Roboto' !important
+} */
